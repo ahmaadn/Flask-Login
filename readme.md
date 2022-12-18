@@ -18,9 +18,7 @@ py create_db.py
 Run Server
 ```
 flask run
-```
-Run debug mode
-```
+# debug
 flask --app app --debug run
 ```
 
